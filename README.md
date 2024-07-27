@@ -24,3 +24,6 @@
 
 ## step 3
 ### copy the file loaction and past in the cmd with folder name with py extension
+
+
+https://github.com/user-attachments/assets/1a3414b3-a4ad-44fb-a1d7-befc7f41e2ab
